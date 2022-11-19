@@ -262,3 +262,13 @@
     height: 15%;
 }
 
+/* ESTILOS */
+fieldset {
+    display: inline-block;
+}
+article[id^="ejercicio"] {
+    display: none;
+}
+select {
+    cursor: pointer;
+}
